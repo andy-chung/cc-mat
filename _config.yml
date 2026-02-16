@@ -1,7 +1,7 @@
----
 theme: jekyll-theme-cayman
-title: 馬到功成
+page:
+  title: 馬到功成
 description: 馬到功成
----
+
 
 show_downloads: false
